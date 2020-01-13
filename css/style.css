@@ -623,6 +623,7 @@ header::after {
     position: relative;
     text-align: center;
     padding: 60px 20px;
+    z-index: 3;
 }
 
 .main-title {
